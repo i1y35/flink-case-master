@@ -1,0 +1,201 @@
+,EventId,DoorId,Dpattern,DLoc,DLvl,EventType,Timestamp
+0,0,168,folding ,4460  Rhode Island Avenue,park,IN,20191414
+1,1,126,low-energy,3593  Gateway Road,1st,IN,20191584
+2,2,159,revolving,8571 Temple Street Frankfort,6th,OUT,20192111
+3,3,121,folding ,4460  Rhode Island Avenue,2nd,IN,20191396
+4,4,88,folding ,3593  Gateway Road,3rd,IN,20192162
+5,5,5,swinging ,9176 Harvey St. Drexel Hill,10th,OUT,20191897
+6,6,182,revolving,4460  Rhode Island Avenue,2nd,IN,20191524
+7,7,182,revolving,8571 Temple Street Frankfort,2nd,OUT,20191602
+8,8,121,low-energy,4460  Rhode Island Avenue,3rd,OUT,20191971
+9,9,5,revolving,8571 Temple Street Frankfort,6th,IN,20191613
+10,10,106,revolving,3593  Gateway Road,5th,OUT,20191994
+11,11,139,swinging ,4460  Rhode Island Avenue,6th,IN,20191265
+12,12,19,folding ,8571 Temple Street Frankfort,2nd,OUT,20191644
+13,13,167,low-energy,1200  Joyce Street,5th,IN,20191903
+14,14,161,low-energy,1200  Joyce Street,2nd,IN,20191972
+15,15,27,revolving,9176 Harvey St. Drexel Hill,10th,OUT,20192007
+16,16,67,swinging ,4460  Rhode Island Avenue,1st,IN,20191983
+17,17,131,swinging ,4460  Rhode Island Avenue,park,OUT,20191665
+18,18,31,swinging ,4460  Rhode Island Avenue,1st,OUT,20191557
+19,19,175,folding ,3593  Gateway Road,2nd,OUT,20191749
+20,20,158,revolving,9176 Harvey St. Drexel Hill,park,OUT,20191324
+21,21,15,revolving,1200  Joyce Street,park,OUT,20191352
+22,22,76,low-energy,4460  Rhode Island Avenue,10th,IN,20192116
+23,23,45,revolving,4460  Rhode Island Avenue,1st,OUT,20191776
+24,24,136,low-energy,4460  Rhode Island Avenue,6th,IN,20191273
+25,25,15,low-energy,4460  Rhode Island Avenue,1st,IN,20192141
+26,26,182,swinging ,9176 Harvey St. Drexel Hill,1st,IN,20191789
+27,27,100,swinging ,8571 Temple Street Frankfort,3rd,IN,20192086
+28,28,174,low-energy,4460  Rhode Island Avenue,5th,OUT,20191711
+29,29,154,low-energy,9176 Harvey St. Drexel Hill,1st,IN,20191879
+30,30,18,low-energy,4460  Rhode Island Avenue,2nd,IN,20191514
+31,31,172,folding ,1200  Joyce Street,park,IN,20191968
+32,32,100,folding ,9176 Harvey St. Drexel Hill,1st,IN,20191535
+33,33,47,swinging ,8571 Temple Street Frankfort,3rd,IN,20191476
+34,34,129,swinging ,9176 Harvey St. Drexel Hill,1st,OUT,20191566
+35,35,166,swinging ,1200  Joyce Street,park,OUT,20191276
+36,36,37,swinging ,8571 Temple Street Frankfort,1st,IN,20191702
+37,37,32,swinging ,9176 Harvey St. Drexel Hill,2nd,OUT,20191586
+38,38,48,revolving,1200  Joyce Street,5th,OUT,20191828
+39,39,57,folding ,4460  Rhode Island Avenue,3rd,OUT,20191326
+40,40,71,swinging ,4460  Rhode Island Avenue,10th,OUT,20192072
+41,41,49,revolving,4460  Rhode Island Avenue,5th,OUT,20191901
+42,42,130,revolving,8571 Temple Street Frankfort,6th,OUT,20191620
+43,43,39,folding ,3593  Gateway Road,1st,IN,20192097
+44,44,43,swinging ,9176 Harvey St. Drexel Hill,6th,IN,20192019
+45,45,177,swinging ,4460  Rhode Island Avenue,6th,OUT,20191573
+46,46,179,folding ,1200  Joyce Street,10th,OUT,20192053
+47,47,127,revolving,4460  Rhode Island Avenue,5th,OUT,20191376
+48,48,72,low-energy,4460  Rhode Island Avenue,3rd,IN,20191313
+49,49,121,low-energy,3593  Gateway Road,2nd,OUT,20191752
+50,50,59,revolving,9176 Harvey St. Drexel Hill,park,IN,20191846
+51,51,108,revolving,9176 Harvey St. Drexel Hill,6th,IN,20191816
+52,52,190,revolving,9176 Harvey St. Drexel Hill,park,IN,20191272
+53,53,11,swinging ,4460  Rhode Island Avenue,park,IN,20191422
+54,54,179,folding ,8571 Temple Street Frankfort,2nd,OUT,20192085
+55,55,126,revolving,4460  Rhode Island Avenue,3rd,OUT,20192139
+56,56,92,revolving,4460  Rhode Island Avenue,5th,IN,20191763
+57,57,152,swinging ,4460  Rhode Island Avenue,6th,IN,20192154
+58,58,140,revolving,9176 Harvey St. Drexel Hill,3rd,OUT,20191563
+59,59,134,revolving,1200  Joyce Street,1st,IN,20191680
+60,60,119,revolving,8571 Temple Street Frankfort,park,OUT,20191961
+61,61,42,low-energy,8571 Temple Street Frankfort,5th,OUT,20191829
+62,62,42,low-energy,1200  Joyce Street,park,OUT,20191422
+63,63,190,swinging ,4460  Rhode Island Avenue,park,OUT,20191935
+64,64,128,revolving,8571 Temple Street Frankfort,10th,OUT,20191417
+65,65,15,revolving,1200  Joyce Street,park,IN,20192030
+66,66,96,folding ,8571 Temple Street Frankfort,park,OUT,20191444
+67,67,43,low-energy,3593  Gateway Road,2nd,OUT,20191750
+68,68,22,revolving,4460  Rhode Island Avenue,2nd,IN,20192129
+69,69,70,revolving,4460  Rhode Island Avenue,5th,OUT,20191514
+70,70,7,swinging ,1200  Joyce Street,1st,IN,20191495
+71,71,131,revolving,1200  Joyce Street,6th,OUT,20191646
+72,72,189,folding ,8571 Temple Street Frankfort,1st,IN,20191968
+73,73,80,folding ,1200  Joyce Street,park,OUT,20192207
+74,74,55,revolving,3593  Gateway Road,6th,IN,20191570
+75,75,90,revolving,4460  Rhode Island Avenue,park,OUT,20191542
+76,76,36,low-energy,8571 Temple Street Frankfort,1st,IN,20191246
+77,77,92,folding ,8571 Temple Street Frankfort,6th,OUT,20191697
+78,78,144,low-energy,8571 Temple Street Frankfort,10th,IN,20191910
+79,79,95,revolving,8571 Temple Street Frankfort,2nd,OUT,20191885
+80,80,26,folding ,9176 Harvey St. Drexel Hill,10th,OUT,20191304
+81,81,67,revolving,8571 Temple Street Frankfort,1st,OUT,20191243
+82,82,161,swinging ,3593  Gateway Road,park,OUT,20191604
+83,83,126,swinging ,8571 Temple Street Frankfort,park,OUT,20191691
+84,84,136,low-energy,9176 Harvey St. Drexel Hill,5th,OUT,20192138
+85,85,100,folding ,4460  Rhode Island Avenue,park,OUT,20192091
+86,86,192,revolving,3593  Gateway Road,1st,IN,20191310
+87,87,191,folding ,3593  Gateway Road,6th,IN,20191755
+88,88,158,low-energy,4460  Rhode Island Avenue,3rd,IN,20191818
+89,89,11,swinging ,4460  Rhode Island Avenue,park,IN,20191266
+90,90,196,revolving,8571 Temple Street Frankfort,park,IN,20191633
+91,91,20,revolving,1200  Joyce Street,5th,IN,20191465
+92,92,100,low-energy,9176 Harvey St. Drexel Hill,park,OUT,20192150
+93,93,187,revolving,9176 Harvey St. Drexel Hill,park,OUT,20192200
+94,94,100,folding ,8571 Temple Street Frankfort,6th,IN,20191830
+95,95,169,folding ,1200  Joyce Street,1st,OUT,20191679
+96,96,13,swinging ,9176 Harvey St. Drexel Hill,1st,IN,20191460
+97,97,159,swinging ,1200  Joyce Street,2nd,OUT,20191680
+98,98,118,low-energy,9176 Harvey St. Drexel Hill,1st,IN,20191255
+99,99,78,low-energy,8571 Temple Street Frankfort,6th,OUT,20191935
+100,100,74,low-energy,3593  Gateway Road,6th,IN,20191482
+101,101,125,low-energy,3593  Gateway Road,park,IN,20191562
+102,102,54,swinging ,4460  Rhode Island Avenue,10th,IN,20191561
+103,103,116,revolving,1200  Joyce Street,3rd,OUT,20191869
+104,104,184,swinging ,3593  Gateway Road,3rd,IN,20191244
+105,105,189,folding ,4460  Rhode Island Avenue,3rd,OUT,20191489
+106,106,98,revolving,3593  Gateway Road,5th,OUT,20191629
+107,107,129,swinging ,1200  Joyce Street,1st,OUT,20192212
+108,108,61,low-energy,1200  Joyce Street,3rd,OUT,20191393
+109,109,124,swinging ,9176 Harvey St. Drexel Hill,6th,IN,20191459
+110,110,177,low-energy,4460  Rhode Island Avenue,6th,IN,20191776
+111,111,102,swinging ,4460  Rhode Island Avenue,6th,OUT,20191486
+112,112,51,low-energy,8571 Temple Street Frankfort,5th,IN,20191464
+113,113,93,revolving,1200  Joyce Street,3rd,OUT,20191525
+114,114,69,revolving,4460  Rhode Island Avenue,3rd,OUT,20191897
+115,115,73,swinging ,1200  Joyce Street,park,OUT,20191760
+116,116,89,folding ,3593  Gateway Road,3rd,IN,20191827
+117,117,24,folding ,3593  Gateway Road,1st,OUT,20192102
+118,118,80,low-energy,9176 Harvey St. Drexel Hill,3rd,IN,20191301
+119,119,75,revolving,8571 Temple Street Frankfort,2nd,OUT,20191432
+120,120,7,folding ,1200  Joyce Street,park,OUT,20191466
+121,121,181,swinging ,4460  Rhode Island Avenue,5th,IN,20191360
+122,122,7,swinging ,9176 Harvey St. Drexel Hill,6th,OUT,20191304
+123,123,195,low-energy,3593  Gateway Road,10th,OUT,20192014
+124,124,56,folding ,1200  Joyce Street,park,OUT,20191488
+125,125,55,swinging ,3593  Gateway Road,3rd,IN,20191910
+126,126,156,folding ,1200  Joyce Street,10th,IN,20191963
+127,127,2,revolving,4460  Rhode Island Avenue,1st,OUT,20192017
+128,128,49,low-energy,8571 Temple Street Frankfort,5th,OUT,20192179
+129,129,170,revolving,3593  Gateway Road,2nd,IN,20192182
+130,130,116,low-energy,8571 Temple Street Frankfort,5th,IN,20191701
+131,131,22,low-energy,4460  Rhode Island Avenue,3rd,OUT,20191252
+132,132,59,swinging ,9176 Harvey St. Drexel Hill,park,OUT,20191950
+133,133,118,swinging ,1200  Joyce Street,park,IN,20192185
+134,134,179,low-energy,4460  Rhode Island Avenue,3rd,IN,20191293
+135,135,113,swinging ,8571 Temple Street Frankfort,6th,IN,20192009
+136,136,171,low-energy,1200  Joyce Street,5th,OUT,20191938
+137,137,109,revolving,3593  Gateway Road,6th,IN,20191719
+138,138,85,folding ,8571 Temple Street Frankfort,6th,IN,20191555
+139,139,53,swinging ,1200  Joyce Street,5th,IN,20191686
+140,140,186,swinging ,8571 Temple Street Frankfort,5th,OUT,20191930
+141,141,44,swinging ,8571 Temple Street Frankfort,5th,OUT,20191978
+142,142,193,folding ,8571 Temple Street Frankfort,5th,OUT,20191823
+143,143,137,low-energy,8571 Temple Street Frankfort,1st,OUT,20191335
+144,144,153,swinging ,9176 Harvey St. Drexel Hill,3rd,OUT,20191905
+145,145,70,swinging ,4460  Rhode Island Avenue,2nd,IN,20191351
+146,146,155,revolving,8571 Temple Street Frankfort,1st,IN,20191348
+147,147,127,swinging ,9176 Harvey St. Drexel Hill,6th,IN,20192176
+148,148,157,folding ,4460  Rhode Island Avenue,1st,IN,20191840
+149,149,69,folding ,1200  Joyce Street,10th,IN,20191717
+150,150,125,low-energy,3593  Gateway Road,6th,OUT,20192064
+151,151,135,folding ,1200  Joyce Street,10th,OUT,20192143
+152,152,82,revolving,1200  Joyce Street,1st,OUT,20191316
+153,153,111,revolving,8571 Temple Street Frankfort,10th,IN,20191727
+154,154,10,swinging ,3593  Gateway Road,1st,OUT,20192039
+155,155,16,low-energy,3593  Gateway Road,3rd,IN,20191343
+156,156,3,revolving,1200  Joyce Street,3rd,OUT,20191487
+157,157,161,revolving,1200  Joyce Street,3rd,OUT,20191840
+158,158,131,revolving,4460  Rhode Island Avenue,3rd,OUT,20191765
+159,159,98,swinging ,9176 Harvey St. Drexel Hill,5th,IN,20192218
+160,160,145,low-energy,4460  Rhode Island Avenue,3rd,OUT,20191303
+161,161,120,folding ,8571 Temple Street Frankfort,park,OUT,20191431
+162,162,60,folding ,8571 Temple Street Frankfort,1st,IN,20191957
+163,163,83,folding ,8571 Temple Street Frankfort,park,OUT,20191720
+164,164,8,low-energy,4460  Rhode Island Avenue,10th,IN,20191599
+165,165,116,swinging ,3593  Gateway Road,2nd,OUT,20191320
+166,166,73,low-energy,4460  Rhode Island Avenue,10th,OUT,20191463
+167,167,48,swinging ,9176 Harvey St. Drexel Hill,1st,IN,20191801
+168,168,94,revolving,1200  Joyce Street,park,OUT,20192064
+169,169,118,revolving,4460  Rhode Island Avenue,3rd,IN,20191624
+170,170,199,low-energy,3593  Gateway Road,5th,OUT,20191835
+171,171,188,revolving,8571 Temple Street Frankfort,1st,IN,20191796
+172,172,103,swinging ,1200  Joyce Street,6th,OUT,20191403
+173,173,95,swinging ,3593  Gateway Road,6th,OUT,20192119
+174,174,37,swinging ,4460  Rhode Island Avenue,2nd,IN,20191948
+175,175,12,low-energy,8571 Temple Street Frankfort,park,OUT,20191653
+176,176,95,revolving,4460  Rhode Island Avenue,1st,OUT,20191510
+177,177,87,folding ,1200  Joyce Street,park,IN,20191303
+178,178,23,low-energy,9176 Harvey St. Drexel Hill,5th,OUT,20192205
+179,179,30,swinging ,3593  Gateway Road,3rd,OUT,20191916
+180,180,134,low-energy,9176 Harvey St. Drexel Hill,2nd,IN,20191645
+181,181,119,folding ,8571 Temple Street Frankfort,park,OUT,20191565
+182,182,10,revolving,9176 Harvey St. Drexel Hill,5th,IN,20191538
+183,183,94,low-energy,9176 Harvey St. Drexel Hill,1st,IN,20191865
+184,184,169,low-energy,8571 Temple Street Frankfort,6th,IN,20191880
+185,185,138,revolving,8571 Temple Street Frankfort,2nd,IN,20191680
+186,186,56,folding ,8571 Temple Street Frankfort,1st,IN,20192020
+187,187,67,folding ,3593  Gateway Road,park,OUT,20191757
+188,188,7,swinging ,9176 Harvey St. Drexel Hill,6th,OUT,20191737
+189,189,98,revolving,1200  Joyce Street,3rd,IN,20191430
+190,190,185,folding ,3593  Gateway Road,5th,IN,20192178
+191,191,37,swinging ,1200  Joyce Street,3rd,IN,20191528
+192,192,91,low-energy,9176 Harvey St. Drexel Hill,park,OUT,20192066
+193,193,67,low-energy,9176 Harvey St. Drexel Hill,10th,IN,20191324
+194,194,118,folding ,8571 Temple Street Frankfort,6th,IN,20191595
+195,195,155,revolving,8571 Temple Street Frankfort,1st,IN,20192080
+196,196,170,revolving,4460  Rhode Island Avenue,5th,OUT,20191381
+197,197,28,revolving,4460  Rhode Island Avenue,1st,OUT,20191441
+198,198,141,revolving,3593  Gateway Road,1st,OUT,20192018
+199,199,184,low-energy,9176 Harvey St. Drexel Hill,park,OUT,20191741
